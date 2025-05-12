@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 "use client";
 import React, { useState } from "react";
 
@@ -112,3 +113,6 @@ const Konular = ({
 };
 
 export default Konular;
+=======
+
+>>>>>>> cd9311499558b535bd306eb30f41b3c421107864

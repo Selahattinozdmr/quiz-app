@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import type { NextAuthConfig } from "next-auth";
 import { PrismaClient } from "@prisma/client";
 import { NextURL } from "next/dist/server/web/next-url";
@@ -50,3 +51,6 @@ export const authConfig: any = {
     },
   },
 };
+=======
+
+>>>>>>> cd9311499558b535bd306eb30f41b3c421107864

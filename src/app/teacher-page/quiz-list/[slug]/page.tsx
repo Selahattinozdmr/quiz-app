@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { getQuestion } from "@/action";
 import TeacherQuestion from "@/components/teacherPage/question/TeacherQuestion";
 import Link from "next/link";
@@ -24,3 +25,6 @@ const page = async ({ params }) => {
 };
 
 export default page;
+=======
+
+>>>>>>> cd9311499558b535bd306eb30f41b3c421107864

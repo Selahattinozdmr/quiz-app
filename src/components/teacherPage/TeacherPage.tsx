@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import Link from "next/link";
 import React from "react";
 import {
@@ -154,3 +155,6 @@ const TeacherPage = async () => {
 };
 
 export default TeacherPage;
+=======
+
+>>>>>>> cd9311499558b535bd306eb30f41b3c421107864

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { useState } from "react";
 import Image from "next/image";
 const Card = ({
@@ -148,3 +149,6 @@ const Card = ({
 };
 
 export default Card;
+=======
+
+>>>>>>> cd9311499558b535bd306eb30f41b3c421107864

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 "use client";
 import React, { useState } from "react";
 import Konular from "./Konular";
@@ -94,3 +95,6 @@ const CreateQuiz = ({
 };
 
 export default CreateQuiz;
+=======
+
+>>>>>>> cd9311499558b535bd306eb30f41b3c421107864

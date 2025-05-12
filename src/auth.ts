@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import NextAuth from "next-auth";
 import credentials from "next-auth/providers/credentials";
 import { PrismaClient } from "@prisma/client";
@@ -51,3 +52,6 @@ export const { handlers, auth, signIn, signOut } = NextAuth({
     ...authConfig.callbacks,
   },
 });
+=======
+
+>>>>>>> cd9311499558b535bd306eb30f41b3c421107864

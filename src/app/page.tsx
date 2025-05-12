@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React from "react";
 import Link from "next/link";
 import Image from "next/image";
@@ -41,3 +42,6 @@ const HomePage = async () => {
 };
 
 export default HomePage;
+=======
+
+>>>>>>> cd9311499558b535bd306eb30f41b3c421107864

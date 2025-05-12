@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 "use server";
 import { getQuizesforStudend1, updateIsCompleted } from "@/action";
 import QuizApp from "@/components/teacherPage/quiz/QuizApp/QuizApp";
@@ -19,3 +20,6 @@ const page = async ({ params }) => {
 };
 
 export default page;
+=======
+
+>>>>>>> cd9311499558b535bd306eb30f41b3c421107864

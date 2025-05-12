@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { approveQuiz, deleteQuizById, getQuiz } from "@/action";
 import { auth } from "@/auth";
 import React from "react";
@@ -86,3 +87,6 @@ const page = async () => {
 };
 
 export default page;
+=======
+
+>>>>>>> cd9311499558b535bd306eb30f41b3c421107864

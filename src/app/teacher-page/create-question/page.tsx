@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 "use server";
 import { createQuestion, getCategory, getSubCategory } from "@/action";
 import React from "react";
@@ -119,3 +120,6 @@ const CreateQuestionPage = async () => {
   );
 };
 export default CreateQuestionPage;
+=======
+
+>>>>>>> cd9311499558b535bd306eb30f41b3c421107864

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const Start = ({
   onclick,
   start,
@@ -30,3 +31,6 @@ const Start = ({
 };
 
 export default Start;
+=======
+
+>>>>>>> cd9311499558b535bd306eb30f41b3c421107864

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React from "react";
 import { auth } from "@/auth";
 import { getQuizforStudent } from "@/action";
@@ -56,3 +57,6 @@ const SPage = async () => {
 };
 
 export default SPage;
+=======
+
+>>>>>>> cd9311499558b535bd306eb30f41b3c421107864

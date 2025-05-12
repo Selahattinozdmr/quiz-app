@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 "use client";
 import React, { useState } from "react";
 import QuizCard from "./QuizCard";
@@ -77,3 +78,6 @@ const QuizApp = ({ sorular, editScore, id, updateIsCompleted }) => {
 };
 
 export default QuizApp;
+=======
+
+>>>>>>> cd9311499558b535bd306eb30f41b3c421107864

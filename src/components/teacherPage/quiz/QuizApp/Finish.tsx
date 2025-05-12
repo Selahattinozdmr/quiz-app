@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 "use client";
 import { FaCrown } from "react-icons/fa";
 const Finish = ({
@@ -45,3 +46,6 @@ const Finish = ({
 };
 
 export default Finish;
+=======
+
+>>>>>>> cd9311499558b535bd306eb30f41b3c421107864
